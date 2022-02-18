@@ -1,0 +1,51 @@
+{
+  "subscriptions": [
+    {
+      "id": "ods0ks",
+      "url": "https://www.vinted.fr/vetements?search_id=4614546424&currency=EUR&order=newest_first&price_to=20&brand_id[]=362&catalog[]=79&catalog[]=13&size_id[]=3&size_id[]=4&size_id[]=5&size_id[]=207&size_id[]=208&size_id[]=209",
+      "channelID": "943945241734570015"
+    },
+    {
+      "id": "4zenx",
+      "url": "https://www.vinted.fr/vetements?currency=EUR&search_id=4614595435&order=newest_first&brand_id[]=362&price_to=30&size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=1206&catalog[]=1037",
+      "channelID": "943983943542243438"
+    },
+    {
+      "id": "o5bcg",
+      "url": "https://www.vinted.fr/vetements?currency=EUR&search_id=4614595435&order=newest_first&brand_id[]=362&price_to=30&size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=76&catalog[]=12",
+      "channelID": "943984139269455933"
+    },
+    {
+      "id": "wjgfy",
+      "url": "https://www.vinted.fr/vetements?search_id=4614507679&price_to=20&currency=EUR&brand_id[]=53&order=newest_first&size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=79&catalog[]=13",
+      "channelID": "943942893880615013"
+    },
+    {
+      "id": "smrre",
+      "url": "https://www.vinted.fr/vetements?search_id=4614532224&currency=EUR&order=newest_first&price_to=15&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=257&catalog[]=183&catalog[]=34",
+      "channelID": "943944235697201162"
+    }
+  ],
+  "last_item_ts_mvg4lx": 1644642081000,
+  "last_item_ts_lpt5mv": 1644647170000,
+  "last_item_ts_yjxc6": 1644642898000,
+  "last_item_ts_khyspi": 1644603230000,
+  "last_item_ts_lyghh1": 1644647170000,
+  "last_item_ts_6bqywg": 1644647135000,
+  "last_item_ts_6m5k67": 1645133389000,
+  "last_item_ts_990uk6": 1645133389000,
+  "last_item_ts_3sh25": 1645133504000,
+  "last_item_ts_7re7t": 1645133607000,
+  "last_item_ts_i08ayyh": 1644646934000,
+  "last_item_ts_fwoczj": 1645128579000,
+  "last_item_ts_ods0ks": 1645136166000,
+  "last_item_ts_4zenx": 1645128024000,
+  "last_item_ts_o5bcg": 1645137305000,
+  "last_item_ts_wjgfy": 1645137667000,
+  "is_first_sync": false,
+  "last_item_ts_8cd63s": 1645136405000,
+  "last_item_ts_rgz93e": 1645134989000,
+  "last_item_ts_smrre": 1645129759000,
+  "last_item_ts_3trudf": 1645128940000,
+  "last_item_ts_27edc": 1645135106000
+}
